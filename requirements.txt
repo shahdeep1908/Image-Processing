@@ -1,0 +1,1 @@
+Create an Folder name 'azure' on desktop before running for better clarity and smooth running of code.
